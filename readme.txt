@@ -7,8 +7,4 @@
 999999999
 aaaaaa
 bbbbbbb
-<<<<<<< HEAD
 分支冲突测试2-master
-=======
-分支冲突测试-dev
->>>>>>> dev
